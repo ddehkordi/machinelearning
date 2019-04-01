@@ -27,6 +27,7 @@ import seaborn as sns
 get_ipython().magic('matplotlib inline')
 
 
+
 # ## Get the Data
 # 
 # We'll work with the Ecommerce Customers csv file from the company. It has Customer info, suchas Email, Address, and their color Avatar. Then it also has numerical value columns:
